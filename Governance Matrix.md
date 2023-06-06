@@ -7,15 +7,14 @@ This matrix serves as a guide to demonstrate how various aspects of a DAO's oper
 It underscores our commitment to prioritize decentralization and the implementation of autonomous features in every DAO we build.
 
 
-|                  |   Module A         |   Module B          |   Module C          |   Module D          |   Module E         |   Module F          |   Module G           |
-|------------------|--------------------|---------------------|---------------------|---------------------|--------------------|---------------------|----------------------|
-|                  | dApp Front End     | Backend Framework   | Financial Module    | Voting / Governance | dApp Core Logic    | Data Storage        | Audits / Security    |
-|------------------|--------------------|---------------------|---------------------|---------------------|--------------------|---------------------|----------------------|
-| Administration   | 7 of 9 DAs: 78%    | 6 of 8 DAs: 75%     | 4 of 5 DAs: 80%     | 7 of 10 DAs: 70%    | 5 of 5 DAs: 100%   | 3 of 5 DAs: 60%     | 2 of 3 DAs: 67%      |
-| Financial        | 3 of 5 DAs: 60%    | 4 of 6 DAs: 67%     | 2 of 4 DAs: 50%     | 4 of 7 DAs: 57%     | 5 of 5 DAs: 100%   | 2 of 5 DAs: 40%     | 1 of 3 DAs: 33%      |
-| Governance       | 2 of 5 DAs: 40%    | 3 of 6 DAs: 50%     | 3 of 4 DAs: 75%     | 5 of 7 DAs: 71%     | 5 of 5 DAs: 100%   | 4 of 5 DAs: 80%     | 3 of 3 DAs: 100%     |
-| Liability        | 4 of 5 DAs: 80%    | 3 of 6 DAs: 50%     | 4 of 4 DAs: 100%    | 2 of 7 DAs: 29%     | 5 of 5 DAs: 100%   | 5 of 5 DAs: 100%    | 2 of 3 DAs: 67%      |
-| Security         | 5 of 5 DAs: 100%   | 4 of 6 DAs: 67%     | 3 of 4 DAs: 75%     | 2 of 7 DAs: 29%     | 5 of 5 DAs: 100%   | 4 of 5 DAs: 80%     | 3 of 3 DAs: 100%     |
+|                  |      Module A     |      Module B      |      Module C      |      Module D       |     Module E      |      Module F      |      Module G       |
+|                  |   dApp Front End  | Backend Framework  |  Financial Module  | Voting / Governance |  dApp Core Logic  |    Data Storage    |  Audits / Security  |
+|------------------|-------------------|--------------------|--------------------|---------------------|-------------------|--------------------|---------------------|
+| Administration   |  7 of 9 DAs: 78%  |   6 of 8 DAs: 75%  |  4 of 5 DAs: 80%   |  7 of 10 DAs: 70%   |  5 of 5 DAs: 100% |   3 of 5 DAs: 60%  |  2 of 3 DAs: 67%    |
+| Financial        |  3 of 5 DAs: 60%  |  4 of 6 DAs: 67%   |  2 of 4 DAs: 50%   |  4 of 7 DAs: 57%    |  5 of 5 DAs: 100% |   2 of 5 DAs: 40%  |  1 of 3 DAs: 33%    |
+| Governance       |  2 of 5 DAs: 40%  |  3 of 6 DAs: 50%   |  3 of 4 DAs: 75%   |  5 of 7 DAs: 71%    |  5 of 5 DAs: 100% |   4 of 5 DAs: 80%  |  3 of 3 DAs: 100%   |
+| Liability        |  4 of 5 DAs: 80%  |  3 of 6 DAs: 50%   |  4 of 4 DAs: 100%  |  2 of 7 DAs: 29%    |  5 of 5 DAs: 100% |   5 of 5 DAs: 100% |  2 of 3 DAs: 67%    |
+| Security         |  5 of 5 DAs: 100% |  4 of 6 DAs: 67%   |  3 of 4 DAs: 75%   |  2 of 7 DAs: 29%    |  5 of 5 DAs: 100% |   4 of 5 DAs: 80%  |  3 of 3 DAs: 100%   |
 
 
 
