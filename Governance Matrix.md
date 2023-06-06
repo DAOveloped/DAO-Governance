@@ -7,7 +7,7 @@ This matrix serves as a guide to demonstrate how various aspects of a DAO's oper
 It underscores our commitment to prioritize decentralization and the implementation of autonomous features in every DAO we build.
 
 
-|                  |      Module A     |      Module B      |      Module C      |      Module D       |     Module E      |      Module F      |      Module G       |
+|                  |      Module A     |      Module B      |      Module C      |      Module D       |     Module E      |      Module F      | Module G|
 |                  |   dApp Front End  | Backend Framework  |  Financial Module  | Voting / Governance |  dApp Core Logic  |    Data Storage    |  Audits / Security  |
 |------------------|-------------------|--------------------|--------------------|---------------------|-------------------|--------------------|---------------------|
 | Administration   |  7 of 9 DAs: 78%  |   6 of 8 DAs: 75%  |  4 of 5 DAs: 80%   |  7 of 10 DAs: 70%   |  5 of 5 DAs: 100% |   3 of 5 DAs: 60%  |  2 of 3 DAs: 67%    |
