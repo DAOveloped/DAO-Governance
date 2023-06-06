@@ -24,7 +24,7 @@ The Layer Decentralization Score measures the average decentralization achieved 
 can assess the level of decentralization in functions and decision-making processes within each layer. It is essential to note that actual scores may 
 vary depending on the specific implementation of a particular DAO.
 
-|--------------  |---------|
+
 |   Layer        | Average |
 |--------------  |---------|
 | Administration |  75.7%  |
@@ -32,7 +32,7 @@ vary depending on the specific implementation of a particular DAO.
 | Governance     |  73.7%  |
 | Liability      |  75.1%  |
 | Security       |  78.7%  |
-|----------------|---------|
+
 
 
 ## Module Decentralization Score
@@ -41,7 +41,7 @@ The Module Decentralization Score showcases the level of decentralization achiev
 area of functionality, and the score indicates the average degree of decentralization attained within that module. The figures provided here are for 
 illustrative purposes only, and the actual scores may differ based on the unique characteristics and goals of each DAO.
 
-|---------------------|---------|
+
 |   Module            | Average |
 |---------------------|---------|
 | dApp Front End      |  72.6%  |
@@ -51,7 +51,7 @@ illustrative purposes only, and the actual scores may differ based on the unique
 | dApp Core Logic     |  100%   |
 | Data Storage        |   68%   |
 | Audits / Security   |  67.6%  |
-|---------------------|---------|
+
 
 It is important to emphasize that these scores are presented as examples to illustrate the measurement of decentralization. In practice, we prioritize
 the pursuit of decentralization and the integration of autonomous features in every aspect of the DAOs we construct. Our aim is to empower communities, 
