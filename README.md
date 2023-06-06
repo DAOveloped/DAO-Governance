@@ -1,4 +1,4 @@
-# DAO Governance Layers: The Layers of a Decentralized Autonomous Organization
+# DAO Governance: The Layers of a Decentralized Autonomous Organization
 
 ## Introduction
 Decentralized Autonomous Organizations (DAOs) have emerged as powerful models for collaborative decision-making, governance, and economic coordination. DAOs offer individuals and communities the ability to collectively manage resources, execute initiatives, and pursue common goals. In this document, we explore the fundamental layers that constitute a DAO and how we design and build them.
