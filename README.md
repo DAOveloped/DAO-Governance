@@ -68,4 +68,4 @@ The Security Layer encompasses the following responsibilities:
 
 The Security Layer plays a crucial role in maintaining the trust and confidence of DAO stakeholders by safeguarding their assets, information, and the overall integrity of the organization. By proactively addressing security risks and implementing robust security measures, the DAO can ensure the long-term viability and resilience of its operations.
 
-<img width="800" alt="image" src="https://github.com/DAOveloped/DAO-Governance-Layers/assets/132786312/58b60775-80da-40aa-bd28-b5965900adb0">
+<center><img width="800" alt="image" src="https://github.com/DAOveloped/DAO-Governance-Layers/assets/132786312/58b60775-80da-40aa-bd28-b5965900adb0"></center>
