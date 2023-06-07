@@ -14,7 +14,7 @@ By employing this matrix, we emphasize our commitment to prioritizing both decen
 
 ## Decentralization Actions
 
-|                  |   dApp Front End  | Backend Framework  |  Financial Module  | Voting / Governance |  dApp Core Logic  |    Data Storage    |  Audits / Security  |
+|                  |   dApp Frontend  | Backend Framework  |  Financial Module  | Voting / Governance |  dApp Core Logic  |    Data Storage    |  Audits / Security  |
 |------------------|-------------------|--------------------|--------------------|---------------------|-------------------|--------------------|---------------------|
 | Administration   |  7 of 9 DAs: 78%  |   6 of 8 DAs: 75%  |  4 of 5 DAs: 80%   |  7 of 10 DAs: 70%   |  5 of 5 DAs: 100% |   3 of 5 DAs: 60%  |  2 of 3 DAs: 67%    |
 | Financial        |  3 of 5 DAs: 60%  |  4 of 6 DAs: 67%   |  2 of 4 DAs: 50%   |  4 of 7 DAs: 57%    |  5 of 5 DAs: 100% |   2 of 5 DAs: 40%  |  1 of 3 DAs: 33%    |
@@ -50,7 +50,7 @@ By employing this matrix, we emphasize our commitment to prioritizing both decen
 
 |   Module            | Average |
 |---------------------|---------|
-| dApp Front End      |  72.6%  |
+| dApp Frontend       |  72.6%  |
 | Backend Framework   |  63.3%  |
 | Financial Module    |  71.8%  |
 | Voting / Governance |  51.2%  |
@@ -75,7 +75,7 @@ By employing this matrix, we emphasize our commitment to prioritizing both decen
 
 |   Module            | Average |
 |---------------------|---------|
-| dApp Front End      |  51.2%  |
+| dApp Frontend       |  51.2%  |
 | Backend Framework   |  43.2%  |
 | Financial Module    |  52.0%  |
 | Voting / Governance |  37.6%  |
