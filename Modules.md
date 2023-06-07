@@ -50,6 +50,4 @@ storage, the Data Storage module enhances data integrity, security, and resilien
 
 ## 7. Audits / Security
 
-The Audits / Security module focuses on ensuring the robustness and security of the DAO ecosystem. It encompasses comprehensive security audits, 
-code reviews, and vulnerability assessments to identify and mitigate potential risks and vulnerabilities in the DAO's smart contracts and infrastructure.
-This module aims to establish trust and confidence among the DAO's participants by
+The Audits / Security module focuses on ensuring the robustness and security of the DAO ecosystem. It encompasses comprehensive security audits, code reviews, and vulnerability assessments to identify and mitigate potential risks and vulnerabilities in the DAO's smart contracts and infrastructure. This module aims to establish trust and confidence among the DAO's participants by implementing industry-standard security practices, adhering to best coding practices, and adopting proactive measures to address emerging threats.
